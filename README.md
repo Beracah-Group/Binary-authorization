@@ -1,6 +1,6 @@
 # Binary-authorization
 
-## Validating docker images security.
+## Validating docker images security
 
 #### https://circleci.com/orbs/registry/orb/circleci/gcp-binary-authorization.
 
